@@ -28,4 +28,4 @@
 npm run watch-css
 ```
 
-#Vista Previa: https://musgosstore.netlify.app/
+Vista Previa: https://musgosstore.netlify.app/
